@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:3:1-39:12
+INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:3:1-39:12
+INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:3:1-39:12
+	package
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:3:70-98
+		INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:3:99-145
+	xmlns:android
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:4:3-34:17
+	android:extractNativeLibs
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:5:7-39
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:6:5-20:16
+	android:screenOrientation
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:9:9-47
+	android:launchMode
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:10:9-40
+	android:hardwareAccelerated
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:13:9-44
+	android:exported
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:7:9-32
+	android:resizeableActivity
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:12:9-43
+	android:configChanges
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:11:9-190
+	android:theme
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:8:9-50
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:6:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:14:7-17:23
+action#android.intent.action.MAIN
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:15:9-61
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:15:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:16:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:18:7-82
+	android:value
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:18:59-79
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:18:18-58
+meta-data#android.notch_support
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:19:7-78
+	android:value
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:19:55-75
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:19:18-54
+meta-data#unity.splash-mode
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:21:5-69
+	android:value
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:21:49-66
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:21:16-48
+meta-data#unity.splash-enable
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:22:5-74
+	android:value
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:22:51-71
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:22:16-50
+meta-data#unity.allow-resizable-window
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:23:5-84
+	android:value
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:23:60-81
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:23:16-59
+meta-data#notch.config
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:24:5-81
+	android:value
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:24:44-78
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:24:16-43
+meta-data#unity.build-id
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:25:5-101
+	android:value
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:25:46-98
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:25:16-45
+receiver#com.unity.androidnotifications.UnityNotificationManager
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:26:5-112
+	android:exported
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:26:86-109
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:26:15-85
+receiver#com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:27:5-33:16
+	android:enabled
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:29:9-32
+	android:exported
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:28:9-32
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:27:15-99
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:30:7-32:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:31:9-71
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:31:17-68
+uses-feature#0x00020000
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:35:3-52
+	android:glEsVersion
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:35:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:36:3-88
+	android:required
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:36:61-85
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:36:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:37:3-99
+	android:required
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:37:72-96
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:37:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:38:3-108
+	android:required
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:38:81-105
+	android:name
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml:38:17-80
+uses-sdk
+INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter_projects\UnityCube\unityLibrary\src\main\AndroidManifest.xml

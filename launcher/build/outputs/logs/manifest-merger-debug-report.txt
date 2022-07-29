@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:3:70-101
+		INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:3:102-148
+	xmlns:android
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:3:149-189
+supports-screens
+ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:5:3-83
+	android:label
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter_projects\UnityCube\launcher\src\main\AndroidManifest.xml
